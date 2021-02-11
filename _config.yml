@@ -11,11 +11,12 @@ owner:
   bio: "This is a sample Jekyll academic website."
   email: ha.an.nguyen@emory.edu
   twitter: haannguyen2
-  linkedin: ha-an-nguyen
   orcid: 0000-0003-2620-2893
   researchgate: Ha_An_Nguyen2
   google:
     scholar: Ha_An_Nguyen2
+  linkedin: ha-an-nguyen
+
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
