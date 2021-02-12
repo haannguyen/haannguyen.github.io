@@ -9,5 +9,6 @@ I currently work in [Dr. Christine Dunham's lab](http://www.biochem.emory.edu/du
 Areas of interest: Macromolecular X-ray crystallography, cryo-EM, RNA, ribosome
 
 Like all structural biologists, I also have a cat! She has not contributed to any seeding though, so her usefulness is still to be determined. <br> 
-![best cat](images/ribo-cat.jpg)
+<img src="images/ribo-cat.jpg" alt="best cat" style="width:200px">
+
 
