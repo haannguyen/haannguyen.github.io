@@ -1,6 +1,8 @@
 ---
 layout: resume
 ---
+# Curriculum vitae
+
 ## Currently
 
 Graduate Student, [Dunham lab, Emory University](http://www.biochem.emory.edu/dunham/) 
@@ -24,7 +26,7 @@ __Karachi Grammar School__, Karachi, Pakistan
 __William B. Dickinson Educational Trust Award__, Emory University 
 
 `2018`
-__Outstanding Teaching Assistant__, Department of Chemistry, Emory University 
+__Outstanding Teaching Assistant__, Emory University 
 
 `2016`
 __Laney Graduate School Fellowship__, Emory University 
