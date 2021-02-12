@@ -1,7 +1,7 @@
 ---
 layout: resume
+title: Curriculum vitae
 ---
-# Curriculum vitae
 
 ## Currently
 
