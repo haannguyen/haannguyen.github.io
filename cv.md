@@ -15,9 +15,8 @@ Doctor of Philosophy (PhD)
 __University of Richmond__, Richmond, VA, USA
 Bachelor of Science (B.S.)
 
-`2008 - 2012`
+`2007 - 2012`
 __Karachi Grammar School__, Karachi, Pakistan
-Cambridge International Examinations: GCE O Level & A Level
 
 ## Awards
 
@@ -41,29 +40,16 @@ __Arts & Sciences Research Fellowship__, University of Richmond
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](https://scholar.google.com/citations?user=Tlxj6igAAAAJ&hl=en)
 
-### Journals
+4. __Nguyen, H. A.__, Sunita, S. & Dunham, C. M. Disruption of evolutionarily correlated tRNA elements impairs accurate decoding. _Proceedings of the National Academy of Sciences_ 117, 16333-16338, doi:10.1073/pnas.2004170117 (2020).
 
-`1994`
-Article Title, Journal Title
+3. Bustamante Eguiguren, S., __Nguyen, H. A.__, Caldwell, A., Nolin, K. A. & Wu, C. A. Convergence of glandular trichome morphology and chemistry in two montane monkeyflower (Mimulus, Phrymaceae) species. _Flora_ 265, 151567, doi:10.1016/j.flora.2020.151567 (2020).
 
-`1994`
-Article Title, Journal Title
+2. __Nguyen, H. A.__, Hoffer, E. D. & Dunham, C. M. Importance of tRNA anticodon loop modification and a conserved, noncanonical anticodon stem pairing in 〖"tRNA" 〗_"CGG" ^"Pro"  for decoding. _J Biol Chem_, doi:10.1074/jbc.RA119.007410 (2019). __Editor’s Pick__
 
-### Books
+1. __Nguyen, H. A.__ & Dunham, C. M. Genome mining: Digging the tunnel for chemical space. _Nat Chem Biol_ 13, 1061-1062, doi:10.1038/nchembio.2480 (2017).
 
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
