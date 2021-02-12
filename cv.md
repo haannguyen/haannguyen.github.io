@@ -3,22 +3,41 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Graduate Student 
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2016 - current`
+__Emory University__, Atlanta, GA
+Doctor of Philosophy (PhD)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2012 - 2016`
+__University of Richmond__, Richmond, VA, USA
+Bachelor of Science (B.S.)
+
+`2008 - 2012`
+__Karachi Grammar School__, Karachi, Pakistan
+Cambridge International Examinations: GCE O Level & A Level
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2020`
+__William B. Dickinson Educational Trust Award__, Emory University 
+
+`2018`
+__Outstanding Teaching Assistant__, Department of Chemistry, Emory University 
+
+`2016`
+__Laney Graduate School Fellowship__, Emory University 
+
+`2016`
+__Senior Research Achievement Award__, Emory University 
+
+`2013 & 2014`
+__Spider Research Fellowship__, University of Richmond 
+
+`2015`
+__Arts & Sciences Research Fellowship__, University of Richmond 
 
 ## Publications
 
