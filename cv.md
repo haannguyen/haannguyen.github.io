@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Graduate Student 
+Graduate Student, Dunham lab, Emory University 
 
 ## Education
 
