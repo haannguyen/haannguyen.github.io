@@ -27,6 +27,8 @@ lowlight-color: '#d0d0ce'
 creative-commons:
   cc-by: #yes
   cc-by-nc: yes
+  
+future: true
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
