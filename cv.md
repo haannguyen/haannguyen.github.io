@@ -10,17 +10,19 @@ Graduate Student, [Dunham lab, Emory University](http://www.biochem.emory.edu/du
 ## Education
 
 `2016 - current`
-__Emory University__, Atlanta, GA
-Doctor of Philosophy (PhD)
+__Emory University__, Atlanta, GA  
+Doctor of Philosophy (PhD) in Chemistry
 
 `2012 - 2016`
-__University of Richmond__, Richmond, VA, USA
-Bachelor of Science (B.S.)
+__University of Richmond__, Richmond, VA, USA  
+Bachelor of Science (B.S.) in Chemistry (Honors), Computer Science and Biology minors
 
 `2007 - 2012`
 __Karachi Grammar School__, Karachi, Pakistan
 
 ## Awards
+`2021`
+__SER-CAT Young Investigator Award__, Southeast Regional Collaborative Access Team, APS, Chicago
 
 `2020`
 __William B. Dickinson Educational Trust Award__, Emory University 
@@ -40,19 +42,17 @@ __Spider Research Fellowship__, University of Richmond
 `2015`
 __Arts & Sciences Research Fellowship__, University of Richmond 
 
-## Occupation
+## Research Experience
 
-`Current`
-__Current Job Title__, Current Employer 
+`2016 - current`
+__Graduate Research Assistant__, Emory University 
 
-- Task
-- Task
+- Studying the molecular mechanisms of programmed ribosomal frameshifting in the laboratory of Dr. Christine Dunham using biochemical (e.g. filter binding, molecular biology, RNA and protein purification) and structural biology (e.g. X-ray crystallography and cryo-EM) techniques.
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2013-2016`
+__Undergraduate Research Assistant__, University of Richmond 
 
-- Task
-- Task
+- Investigated the fitness consequences of the flower-color polymorphism and the role of trichomes in Mimulus plants in the laboratory of Dr. Carrie Wu, with collaborations with Dr. Kristine Nolin (Chemistry), Dr. John Hayden (Biology) and Ms. Christie Davis (Microscopy and Imaging).
 
 ## Publications
 
@@ -68,6 +68,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: Feb 2021 -->
+Last updated: April 2021 -->
 
 
