@@ -2,6 +2,9 @@
 layout: post-index
 title: Fun figures I made
 ---
+As my lab has suffered through many of my research update presentations, I enjoy making random figures in my spare time!
+Here are some of my favorites.
+
 __Cover submission for 2020 PNAS paper__  
 this was a very fun first Blender project, Twitter user [@bradyajohnston](https://twitter.com/bradyajohnston)'s tutorial was magical
 (_spoilers: it did not make it_)
@@ -21,3 +24,6 @@ Fun PyMol settings I don't know how to replicate
 <img src="images/jbc2019_covers-01.png" alt="cover submission for 2019 JBC paper version 1" style="width:400px">
 <img src="images/jbc2019_covers-02.png" alt="cover submission for 2019 JBC paper version 2" style="width:400px">
 
+__Of course there would be cute ribosomes__
+<img src="images/HN_snowman70S-01.png" alt="a ribosome dressed in snowman outfit with blushing cheeks and a carrot nose" style="width:100px">
+<img src="images/HN_valentine70S-01.png" alt="a Valentine's day ribosome with a red bow tie, smiling face, and a pink heart on top of the 50S" style="width:100px">
