@@ -36,11 +36,12 @@ __Laney Graduate School Fellowship__, Emory University
 `2016`
 __Senior Research Achievement Award__, Emory University 
 
+`2015`
+__Arts & Sciences Research Fellowship__, University of Richmond 
+
 `2013 & 2014`
 __Spider Research Fellowship__, University of Richmond 
 
-`2015`
-__Arts & Sciences Research Fellowship__, University of Richmond 
 
 ## Research Experience
 
