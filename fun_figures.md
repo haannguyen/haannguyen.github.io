@@ -2,8 +2,7 @@
 layout: post-index
 title: Fun figures I made
 ---
-As my lab has suffered through many of my research update presentations, I enjoy making random figures in my spare time!
-Here are some of my favorites.
+I enjoy making random figures in my spare time! Here are some of my favorites.
 
 __Cover submission for 2020 PNAS paper__  
 this was a very fun first Blender project, Twitter user [@bradyajohnston](https://twitter.com/bradyajohnston)'s tutorial was magical
