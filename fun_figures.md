@@ -26,4 +26,4 @@ Fun PyMol settings I don't know how to replicate
 __Of course there would be cute ribosomes__  
 ![image](images/HN_snowman70S-01.png)
 ![image](images/HN_valentine70S-01.png)  
-_2021 edit: no worries I have now since switched to ChimeraX
+_2021 edit: no worries I have now switched to ChimeraX_
