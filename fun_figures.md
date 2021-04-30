@@ -9,10 +9,10 @@ this was a very fun first Blender project, Twitter user [@bradyajohnston](https:
 (_spoilers: it did not make it_)
 <img src="https://github.com/haannguyen/haannguyen.github.io/blob/master/images/2020-05-05_tRNA-Ala-cover.png" alt="pnas cover submission with tRNA bound to the ribosome" style="width:400px">
 ![image](images/2020-05-05_tRNA-Ala-cover.png)
-
+![image](https://github.com/haannguyen/haannguyen.github.io/blob/master/images/2020-05-05_tRNA-Ala-cover.png)
 
 __My favorite (so far) publication figure__  
-(_PNAS 2020_)
+(_PNAS 2020_)  
 <img src="images/2020-04-29_allfig-04.png" alt="pnas figure showing rRNA A1913 is disengaged with an incorrect tRNA" style="width:400px">
 
 __Dunham lab logo I made__  
