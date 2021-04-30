@@ -8,6 +8,8 @@ __Cover submission for 2020 PNAS paper__
 this was a very fun first Blender project, Twitter user [@bradyajohnston](https://twitter.com/bradyajohnston)'s tutorial was magical
 (_spoilers: it did not make it_)
 <img src="https://github.com/haannguyen/haannguyen.github.io/blob/master/images/2020-05-05_tRNA-Ala-cover.png" alt="pnas cover submission with tRNA bound to the ribosome" style="width:400px">
+![image](images/2020-05-05_tRNA-Ala-cover.png)
+
 
 __My favorite (so far) publication figure__  
 (_PNAS 2020_)
