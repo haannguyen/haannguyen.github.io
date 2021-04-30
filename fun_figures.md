@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: page
 title: Fun figures I made
 ---
 I enjoy making random figures in my spare time! Here are some of my favorites.
