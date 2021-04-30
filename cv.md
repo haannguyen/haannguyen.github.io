@@ -48,7 +48,8 @@ __Arts & Sciences Research Fellowship__, University of Richmond
 __Graduate Research Assistant__, Emory University 
 
 - Studying the molecular mechanisms of programmed ribosomal frameshifting in the laboratory of Dr. Christine Dunham using biochemical (e.g. filter binding, molecular biology, RNA and protein purification) and structural biology (e.g. X-ray crystallography and cryo-EM) techniques.
-Cold Spring Harbor Laboratory Course “X-Ray Methods in Structural Biology”
+
+`2013 - 2016`
 __Undergraduate Research Assistant__, University of Richmond 
 
 - Investigated the fitness consequences of the flower-color polymorphism and the role of trichomes in Mimulus plants in the laboratory of Dr. Carrie Wu, with collaborations with Dr. Kristine Nolin (Chemistry), Dr. John Hayden (Biology) and Ms. Christie Davis (Microscopy and Imaging).
