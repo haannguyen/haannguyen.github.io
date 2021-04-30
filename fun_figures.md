@@ -9,7 +9,7 @@ this was a very fun first Blender project, Twitter user [@bradyajohnston](https:
 
 __My favorite (so far) publication figure__
 (_PNAS 2020_)
-<img src="images/2020-04-29_allfig-04.png.png" alt="pnas figure showing rRNA A1913 is disengaged with an incorrect tRNA" style="width:400px">
+<img src="images/2020-04-29_allfig-04.png" alt="pnas figure showing rRNA A1913 is disengaged with an incorrect tRNA" style="width:400px">
 
 __Dunham lab logo I made__
 Despite what my PI says, I promise the font here is not Comic Sans
