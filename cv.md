@@ -48,8 +48,7 @@ __Arts & Sciences Research Fellowship__, University of Richmond
 __Graduate Research Assistant__, Emory University 
 
 - Studying the molecular mechanisms of programmed ribosomal frameshifting in the laboratory of Dr. Christine Dunham using biochemical (e.g. filter binding, molecular biology, RNA and protein purification) and structural biology (e.g. X-ray crystallography and cryo-EM) techniques.
-
-`2013-2016`
+Cold Spring Harbor Laboratory Course “X-Ray Methods in Structural Biology”
 __Undergraduate Research Assistant__, University of Richmond 
 
 - Investigated the fitness consequences of the flower-color polymorphism and the role of trichomes in Mimulus plants in the laboratory of Dr. Carrie Wu, with collaborations with Dr. Kristine Nolin (Chemistry), Dr. John Hayden (Biology) and Ms. Christie Davis (Microscopy and Imaging).
@@ -65,6 +64,10 @@ __Undergraduate Research Assistant__, University of Richmond
 2. __Nguyen, H. A.__, Hoffer, E. D. & Dunham, C. M. Importance of tRNA anticodon loop modification and a conserved, noncanonical anticodon stem pairing in tRNA<sup>Pro</sup>_CGG  for decoding. *J Biol Chem*, doi:10.1074/jbc.RA119.007410 (2019). __Editor’s Pick__. [PMID: 30782843](https://pubmed.ncbi.nlm.nih.gov/30782843/)
 
 1. __Nguyen, H. A.__ & Dunham, C. M. Genome mining: Digging the tunnel for chemical space. *Nat Chem Biol* 13, 1061-1062, doi:10.1038/nchembio.2480 (2017). [PMID: 28926552](https://pubmed.ncbi.nlm.nih.gov/28926552/)
+
+## Courses
+`2019`
+__“X-Ray Methods in Structural Biology”__, Cold Spring Harbor Laboratory
 
 <!-- ### Footer
 
