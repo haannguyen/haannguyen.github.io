@@ -4,6 +4,9 @@ title: Fun figures I made
 ---
 I enjoy making random figures in my spare time! Here are some of my favorites.
 
+__I have now switched to ChimeraX in my life but have no published work with it yet__
+![image](images/mapinmodel.png)
+
 __Cover submission for 2020 PNAS paper__  
 this was a very fun first Blender project, Twitter user [@bradyajohnston](https://twitter.com/bradyajohnston)'s tutorial was magical
 (_spoilers: it did not make it_)
@@ -26,4 +29,3 @@ Fun PyMol settings I don't know how to replicate
 __Of course there would be cute ribosomes__  
 ![image](images/HN_snowman70S-01.png)
 ![image](images/HN_valentine70S-01.png)  
-_2021 edit: no worries I have now switched to ChimeraX_
