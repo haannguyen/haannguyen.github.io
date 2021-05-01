@@ -11,4 +11,4 @@ title: Publications
 
 * __Nguyen, H. A.__, Hoffer, E. D. & Dunham, C. M. Importance of tRNA anticodon loop modification and a conserved, noncanonical anticodon stem pairing in tRNA<sup>Pro</sup>_CGG  for decoding. *J Biol Chem*, doi:10.1074/jbc.RA119.007410 (2019). __Editor’s Pick__. [PMID: 30782843](https://pubmed.ncbi.nlm.nih.gov/30782843/)
 
-* __Nguyen, H. A.__ & Dunham, C. M. Genome mining: Digging the tunnel for chemical space. *Nat Chem Biol* 13, 1061-1062, doi:10.1038/nchembio.2480 (2017). [PMID: 28926552](https://pubmed.ncbi.nlm.nih.gov/28926552/)
+* __Nguyen, H. A.__ & Dunham, C. M. Genome mining: Digging the tunnel for chemical space. *Nat Chem Biol* 13, 1061-1062, doi:10.1038/nchembio.2480 (2017). [PMID: 28926552](https://pubmed.ncbi.nlm.nih.gov/28926552/) _News & Views._
