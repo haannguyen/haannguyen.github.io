@@ -10,7 +10,7 @@ __I have now switched to ChimeraX in my life but have no published work with it 
 __Cover submission for 2020 PNAS paper__  
 this was a very fun first Blender project, Twitter user [@bradyajohnston](https://twitter.com/bradyajohnston)'s tutorial was magical
 (_spoilers: it did not make it_)
-![image](images/2020-05-05_tRNA-Ala-cover.png)
+![image](images/2020-05-05_tRNA-Ala-cover.png|width=400px)
 
 __My favorite (so far) publication figure__  
 (_PNAS 2020_)  
