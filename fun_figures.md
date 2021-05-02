@@ -29,7 +29,7 @@ Fun PyMol settings I don't know how to replicate
 
 __Of course there would be cute ribosomes__  
 <img src="images/HN_snowman70S-01.png" width="100" height="100">
-<img src="images/HN_valentine70S-01.png" width="100" height="100">
+<img src="https://github.com/haannguyen/haannguyen.github.io/blob/master/images/HN_valentine70S-01.png" width="100" height="100">
 
 
 
