@@ -27,5 +27,5 @@ Fun PyMol settings I don't know how to replicate
 ![image](images/jbc2019_covers-02.png)
 
 __Of course there would be cute ribosomes__  
-![image](images/HN_snowman70S-01.png)
-![image](images/HN_valentine70S-01.png)  
+![image](images/HN_snowman70S-01.png | width=100)
+![image](images/HN_valentine70S-01.png | width=100)  
