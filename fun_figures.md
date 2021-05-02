@@ -14,7 +14,7 @@ this was a very fun first Blender project, Twitter user [@bradyajohnston](https:
 
 __My favorite (so far) publication figure__  
 (_PNAS 2020_)  
-![image](images/2020-04-29_allfig-04.png)
+<img src="images/2020-04-29_allfig-04.png" width="400">
 
 __Dunham lab logo I made__  
 Despite what my PI says, I promise the font here is not Comic Sans  
@@ -22,9 +22,10 @@ Despite what my PI says, I promise the font here is not Comic Sans
 
 __Two versions of the cover submission for 2019 JBC paper__  
 Fun PyMol settings I don't know how to replicate  
-(_spoilers: this also did not make it_)
-![image](images/jbc2019_covers-01.png)
-![image](images/jbc2019_covers-02.png)
+(_spoilers: this also did not make it_)  
+<img src="images/jbc2019_covers-01.png" width="400">
+  
+<img src="images/jbc2019_covers-02.png" width="400">
 
 __Of course there would be cute ribosomes__  
 <img src="images/HN_snowman70S-01.png" width="100" height="100">
