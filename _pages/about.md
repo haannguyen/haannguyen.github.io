@@ -19,4 +19,4 @@ Like all structural biologists, I also have a cat! Her scientific usefulness is 
 
 
 
-This website was created base on academicpages, more info can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+This website was created based on academicpages, more info can be found [here](https://academicpages.github.io/markdown/).
