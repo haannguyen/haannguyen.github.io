@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ha An Nguyen"
-  avatar           : "images/haan_nguyen.jpg"
+  avatar           : <images/haan_nguyen.jpg>
   bio              : "postdoc"
   location         : "New York"
   employer         :
