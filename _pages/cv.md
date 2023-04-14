@@ -59,7 +59,7 @@ __Postdoctoral Fellow__, Structural Biology Program, SKI, MSKCC, New York, NY
 `2016 - 2021`
 __Graduate Research Assistant__, Emory University, Atlanta, GA
 
-* Studied the molecular mechanisms of programmed ribosomal frameshifting in the laboratory of [Dr. Christine Dunham]([http://www.biochem.emory.edu/dunham/](https://dunham.emorychem.science/) using biochemical (e.g. filter binding, molecular biology, RNA and protein purification) and structural biology (e.g. X-ray crystallography and cryo-EM) techniques.
+* Studied the molecular mechanisms of programmed ribosomal frameshifting in the laboratory of [Dr. Christine Dunham](https://dunham.emorychem.science/) using biochemical (e.g. filter binding, molecular biology, RNA and protein purification) and structural biology (e.g. X-ray crystallography and cryo-EM) techniques.
 
 `2013 - 2016`
 __Undergraduate Research Assistant__, University of Richmond, Richmond, VA 
