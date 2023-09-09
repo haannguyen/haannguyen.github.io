@@ -70,6 +70,8 @@ __Undergraduate Research Assistant__, University of Richmond, Richmond, VA
 
 [Click here for Google Scholar list](https://scholar.google.com/citations?user=Tlxj6igAAAAJ&hl=en)
 
+* Marathee, N.*, __Nguyen, H. A.__ *, Alumasa, J. N., Kuzmishin Nagy, A. B, Vazquez, M., Dunham, C. M. & Kenneth, K. C. (2023). Antibiotic that inhibits _trans_-translation blocks binding of EF-Tu to tmRNA but not to tRNA. *mBio*,  e01461-23. doi:10.1128/mbio.01461-23. PDB: [8FR3](https://www.rcsb.org/structure/8FR3). __*co-first__
+
 * __Nguyen, H. A.__, Hoffer, E. D., Fagan, C. E., Maehigashi, T., & Dunham, C. M. (2023). Structural basis for reduced ribosomal A-site fidelity in response to P-site codon–anticodon mismatches. *Journal of Biological Chemistry*, 299(4), 104608. doi:10.1016/j.jbc.2023.104608. [PMID: 36924943](https://pubmed.ncbi.nlm.nih.gov/36924943/)
 
 * Laughlin, Z. T., Nandi, S., Dey, D., Zelinskaya, N., Witek, M. A., Srinivas, P., __Nguyen, H. A.__, Kuiper, E. G., Comstock, L. R., Dunham, C. M., and Conn, G. L. (2022) 50S subunit recognition and modification by the *Mycobacterium tuberculosis* ribosomal RNA methyltransferase TlyA. *Proceedings of the National Academy of Sciences* 119, e2120352119, doi:10.1073/pnas.2120352119. [PMID: 35357969](https://pubmed.ncbi.nlm.nih.gov/35357969/)  
