@@ -72,7 +72,7 @@ __Undergraduate Research Assistant__, University of Richmond, Richmond, VA
 
 * Mattingly, J. M., __Nguyen, H. A.__, Roy, B., Fredrick, K., and Dunham, C. M. (2024) Structural analysis of noncanonical translation initiation complexes. *J Biol Chem* 300, 107743. [PMID: 39222680](https://pubmed.ncbi.nlm.nih.gov/39222680/)
 
-* Marathee, N., __Nguyen, H. A.__, Alumasa, J. N., Kuzmishin Nagy, A. B, Vazquez, M., Dunham, C. M. & Kenneth, K. C. (2023). Antibiotic that inhibits _trans_-translation blocks binding of EF-Tu to tmRNA but not to tRNA. *mBio*,  e01461-23. doi:10.1128/mbio.01461-23. PDB: [8FR3](https://www.rcsb.org/structure/8FR3).__*co-first__
+* Marathee, N., __Nguyen, H. A.__, Alumasa, J. N., Kuzmishin Nagy, A. B, Vazquez, M., Dunham, C. M. & Kenneth, K. C. (2023). Antibiotic that inhibits _trans_-translation blocks binding of EF-Tu to tmRNA but not to tRNA. *mBio*,  e01461-23. doi:10.1128/mbio.01461-23. [PMID: 37681945](https://pubmed.ncbi.nlm.nih.gov/37681945/). PDB: [8FR3](https://www.rcsb.org/structure/8FR3).__*co-first__
 
 * __Nguyen, H. A.__, Hoffer, E. D., Fagan, C. E., Maehigashi, T., & Dunham, C. M. (2023). Structural basis for reduced ribosomal A-site fidelity in response to P-site codon–anticodon mismatches. *Journal of Biological Chemistry*, 299(4), 104608. doi:10.1016/j.jbc.2023.104608. [PMID: 36924943](https://pubmed.ncbi.nlm.nih.gov/36924943/)
 
