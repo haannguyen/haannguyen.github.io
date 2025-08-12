@@ -69,7 +69,7 @@ __Undergraduate Research Assistant__, University of Richmond, Richmond, VA
 ## Publications
 [Click here for Google Scholar list](https://scholar.google.com/citations?user=Tlxj6igAAAAJ&hl=en)
 * Kimbrough, E. M., __Nguyen, H. A.__, Li, H., Mattingly, J. M., Bailey, N. A., Ning, W., Gamper, H., Hou, Y-M., Gonzalez, R.L., Dunham, C. M. (2025) An RNA modification prevents extended codon-anticodon interactions from facilitating +1 frameshifting. *Nat Commun* 16, 7392. doi: 10.1038/s41467-025-62342-4. [PMID: 40789848](https://pubmed.ncbi.nlm.nih.gov/40789848/).
-* 
+  
 * Mattingly, J. M., __Nguyen, H. A.__, Roy, B., Fredrick, K., and Dunham, C. M. (2024) Structural analysis of noncanonical translation initiation complexes. *J Biol Chem* 300, 107743. [PMID: 39222680](https://pubmed.ncbi.nlm.nih.gov/39222680/)
 
 * Marathee, N., __Nguyen, H. A.__, Alumasa, J. N., Kuzmishin Nagy, A. B, Vazquez, M., Dunham, C. M. & Kenneth, K. C. (2023). Antibiotic that inhibits _trans_-translation blocks binding of EF-Tu to tmRNA but not to tRNA. *mBio*,  e01461-23. doi:10.1128/mbio.01461-23. [PMID: 37681945](https://pubmed.ncbi.nlm.nih.gov/37681945/). PDB: [8FR3](https://www.rcsb.org/structure/8FR3). __*co-first__
