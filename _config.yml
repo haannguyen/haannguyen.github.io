@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ha An Nguyen"
 title_separator          : "-"
 name                     : &name "Ha An Nguyen"
-description              : &description "postdoc"
+
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haannguyen/haannguyen.github.io"
