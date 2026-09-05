@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Currently: 
-Postdoc, [Lima lab, Structural Biology, MSKCC](https://www.mskcc.org/research/ski/labs/christopher-lima) 
+Clinical Chemistry Fellow, Department of Laboratory Medicine and Pathology, Mayo Clinic
 
 ## Education
 
@@ -51,7 +51,7 @@ __Spider Research Fellowship__, University of Richmond
 
 ## Research Experience
 
-`2022 - current`
+`2022 - 2026`
 __Postdoctoral Fellow__, Structural Biology Program, SKI, MSKCC, New York, NY 
 
 * Elucidating the molecular details of RNA decay mediated by RNA exosome complexes in [Dr. Christopher Lima's lab](https://www.mskcc.org/research/ski/labs/christopher-lima) by reconstituting the human exosome complex to be used in functional and structural assays. 
@@ -93,4 +93,4 @@ __“X-Ray Methods in Structural Biology”__, Cold Spring Harbor Laboratory
 
 <!-- ### Footer
 
-Last updated: April 2023 -->
+Last updated: September 2026 -->
